@@ -9,7 +9,7 @@ class GroceryList {
       "quantity": 5,
       "unit": "kg",
       "in_stock": true,
-      "image_url": "https://placehold.co/600x400?text=Aashirvaad+Atta",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@ class GroceryList {
       "quantity": 500,
       "unit": "g",
       "in_stock": true,
-      "image_url": "https://placehold.co/600x400?text=Amul+Butter",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
     {
       "id": 3,
@@ -31,7 +31,7 @@ class GroceryList {
       "quantity": 1,
       "unit": "kg",
       "in_stock": true,
-      "image_url": "https://placehold.co/600x400?text=Tata+Salt",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
     {
       "id": 4,
@@ -42,7 +42,7 @@ class GroceryList {
       "quantity": 1,
       "unit": "kg",
       "in_stock": true,
-      "image_url": "https://placehold.co/600x400?text=India+Gate+Basmati",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
     {
       "id": 5,
@@ -53,7 +53,7 @@ class GroceryList {
       "quantity": 1,
       "unit": "kg",
       "in_stock": false,
-      "image_url": "https://placehold.co/600x400?text=Tata+Sampann+Dal",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
     {
       "id": 6,
@@ -64,7 +64,7 @@ class GroceryList {
       "quantity": 280,
       "unit": "g",
       "in_stock": true,
-      "image_url": "https://placehold.co/600x400?text=Maggi+Noodles",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
     {
       "id": 7,
@@ -75,7 +75,7 @@ class GroceryList {
       "quantity": 1,
       "unit": "liter",
       "in_stock": true,
-      "image_url": "https://placehold.co/600x400?text=Fortune+Oil",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
     {
       "id": 8,
@@ -86,7 +86,7 @@ class GroceryList {
       "quantity": 1,
       "unit": "liter",
       "in_stock": true,
-      "image_url": "https://placehold.co/600x400?text=Amul+Taaza+Milk",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
     {
       "id": 9,
@@ -97,7 +97,7 @@ class GroceryList {
       "quantity": 500,
       "unit": "g",
       "in_stock": true,
-      "image_url": "https://placehold.co/600x400?text=Red+Label+Tea",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
     {
       "id": 10,
@@ -108,7 +108,7 @@ class GroceryList {
       "quantity": 200,
       "unit": "g",
       "in_stock": true,
-      "image_url": "https://placehold.co/600x400?text=Haldirams+Bhujia",
+      "image_url": "https://img.freepik.com/free-vector/vector-ripe-yellow-banana-bunch-isolated-white-background_1284-45456.jpg",
     },
   ];
 }

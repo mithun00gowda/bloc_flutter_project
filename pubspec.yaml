@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   bloc:
+  flutter_bloc:
+  fluttertoast:
 
 dev_dependencies:
   flutter_test:
